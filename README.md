@@ -1,4 +1,4 @@
-# CODE_Alineacion_Tiles_Nefrologia 🔬
+# Alineacion de Tiles de Nefrologia 🔬
 Evaluación comparativa de pipelines de registro de imágenes histológicas (GrandQC vs VALIS) mediante Correlación de Fase y NMI.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
@@ -36,7 +36,7 @@ El archivo principal (`evaluacion_pipelines_alineacion.ipynb`) está modularizad
 5. **Validación Visual:** Mapeo de coordenadas orgánicas $(x, y)$ del portaobjetos original para inspeccionar visualmente el acople de estructuras en paralelo.
 6. **Concordancia de Métricas:** Análisis de correlación de rangos de Spearman ($\rho$) entre el error físico (µm) y el NMI.
 
-## ⚙️ Requisitos e Instalación
+## Requisitos e Instalación
 
 Para ejecutar este entorno localmente, se requiere **Python 3** y las siguientes dependencias:
 
