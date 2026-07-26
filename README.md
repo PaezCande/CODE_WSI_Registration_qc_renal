@@ -1,6 +1,6 @@
 # Alineacion de Tiles de Nefrologia 🔬
 Evaluación comparativa de pipelines de registro de imágenes histológicas (GrandQC vs VALIS) mediante Correlación de Fase y NMI.
-
+git 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image_Processing-green?logo=opencv)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-red?logo=pandas)
