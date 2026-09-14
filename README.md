@@ -1,4 +1,4 @@
-# Comparación de pipelines de registro de WSI y selección automática de tiles confiables en tejido renal (Masson)
+# Comparación de pipelines de registro de WSI y selección automática de tiles confiables en tejido renal
 
 Proyecto **COSIECI933 — "Sistemas inteligentes de asistencia al diagnóstico médico"** (UTN).
 
