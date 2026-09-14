@@ -71,8 +71,6 @@ valis-wsi
 
 ## Disponibilidad de datos
 
-El notebook de Kaggle con los resultados está disponible en: https://www.kaggle.com/code/tobiasdelgado/comparaci-n-de-pipelines?scriptVersionId=349911939
-
 Las imágenes originales (WSI de tejido renal, provistas por el Centro de Microscopía Electrónica de la UNC) **no se incluyen en este repositorio** por tratarse de datos sensibles de pacientes sujetos a acuerdos de confidencialidad con la institución proveedora. Solo se publican el código y las métricas agregadas por tile (`metricas_por_tile.csv`), sin rutas ni identificadores que permitan reconstruir la procedencia de las imágenes.
 
 
